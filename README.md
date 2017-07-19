@@ -107,6 +107,10 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 + [aquaMobile](https://www.linkedin.com/company-beta/497605/), Madrid, Spain (2011.07 - 2011.10)
 + [ONUOO](http://weibo.com/onuoo), Remoting (2011.05 - 2012.10)
 
+## AMA (Ask Me Anything)
+
+If you want to ask me anything, go to https://github.com/XadillaX/ama, I will put my answers publicly. This is inspired by https://github.com/sindresorhus/ama.
+
 ## Thanks to
 
 This CV is referred from Yorkie's [CV](https://github.com/yorkie/me).
