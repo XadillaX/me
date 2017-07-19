@@ -1,4 +1,4 @@
-# XadillaX (Khaidi Chu)
+# ![Avatar](https://avatars0.githubusercontent.com/u/2842176?v=4&s=32) XadillaX (Khaidi Chu)
 
 Welcome to summoner's rift!
 
