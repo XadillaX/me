@@ -55,7 +55,7 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 
 | | Organization | Description |
 |-|--------------|-------------|
-| ![Icon](https://avatars3.githubusercontent.com/u/9950313?v=4&s=70) | [nodejs](https://github.com/nodejs) | Member |
+| ![Icon](https://avatars3.githubusercontent.com/u/9950313?v=4&s=70) | [nodejs](https://github.com/nodejs) | Collaborator |
 | ![Icon](https://avatars2.githubusercontent.com/u/13481295?v=4&s=70) | [BoogeeDoo](https://github.com/boogeedoo) | BoogeeDoo member |
 | ![Icon](https://avatars1.githubusercontent.com/u/18023624?v=4&s=70) | [akyuujs](https://github.com/akyuujs) | Akyuujs owner |
 | ![Icon](https://avatars3.githubusercontent.com/u/25809234?v=4&s=70) | [souche-koumakan](https://github.com/souche-koumakan) | Souche Koumakan owner |
