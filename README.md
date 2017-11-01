@@ -46,6 +46,7 @@ Welcome to summoner's rift!
 | [md5-filex](https://github.com/BoogeeDoo/md5-filex) | Calculate file checksum using MD5 in node.js native (start with reading a file). |
 | [mp4duration](https://github.com/XadillaX/node-mp4duration) | A Node.js package to parse mp4 file's duration. |
 | [otrans](https://github.com/XadillaX/otrans) | Object key transformation for Node.js. |
+| [qqwry](https://github.com/souche-koumakan/qqwry) | qqwry.dat parser and querier for Node.js. |
 | [spidex](https://github.com/XadillaX/spidex) | A web requester for Node.js. |
 | [true-html-escape](https://github.com/XadillaX/true-html-escape) | True module to escape and unescape html, including some unicode unescaping like `&#12345;` that other escaping modules don't include. |
 | [xto](https://github.com/XadillaX/xto) | Just an API for Node.js to query each express. |
