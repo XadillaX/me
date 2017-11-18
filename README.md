@@ -104,7 +104,8 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 
 ## Bussiness Timeline
 
-+ [Souche Inc](https://tangeche.com/), Hangzhou, China (2015.09 -)
++ [Ant Financial](https://www.antfin.com), Hangzhou, China (2017.11 -)
++ [Souche Inc](https://tangeche.com/), Hangzhou, China (2015.09 - 2017.11)
 + [Huaban](https://huaban.com/), Hangzhou, China (2014.07 - 2015.08)
 + [TrananX](#), Ningbo, China (2012.11 - 2013.08)
 + [aquaMobile](https://www.linkedin.com/company-beta/497605/), Madrid, Spain (2011.07 - 2011.10)
