@@ -76,12 +76,12 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 ### Node.js Ecosystem
 
 + **Data Structure**
+    - [alibaba/node-hbase-client](https://github.com/alibaba/node-hbase-client/commits/master?author=XadillaX) Asynchronous HBase client for Node.js, pure JavaScript implementation.
     - [justinethier/node-kdtree](https://github.com/justinethier/node-kdtree/commits/master?author=XadillaX) A Node.js add-on for performing efficient Nearest Neighbor searches using libkdtree.
 + **Database**
     - [mysqljs/sqlstring](https://github.com/mysqljs/sqlstring/commits/master?author=XadillaX) Simple SQL escape and format for MySQL.
     - [sequelize/sequelize](https://github.com/sequelize/sequelize/commits/master?author=XadillaX) An easy-to-use multi SQL dialect ORM for Node.js.
     - [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2/commits/master?author=XadillaX) fast node-mysql compatible mysql driver for Node.js.
-    - [alibaba/node-hbase-client](https://github.com/alibaba/node-hbase-client/commits/master?author=XadillaX) Asynchronous HBase client for Node.js, pure JavaScript implementation.
 + **Multimedia**
     - [eugeneware/jpeg-js](https://github.com/eugeneware/jpeg-js/commits/master?author=XadillaX) A pure javascript JPEG encoder and decoder for Node.js.
 + **Protocol**
