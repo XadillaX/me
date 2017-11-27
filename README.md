@@ -58,6 +58,7 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 | | Organization | Description |
 |-|--------------|-------------|
 | ![Icon](https://avatars3.githubusercontent.com/u/9950313?v=4&s=70) | [nodejs](https://github.com/nodejs) | Collaborator |
+| ![Icon](https://avatars0.githubusercontent.com/u/20986060?s=70&v=4) | [Hangzhou Node Party](https://github.com/Hangzhou-Node-Party) | NodeParty Open-Source Foundation committee |
 | ![Icon](https://avatars2.githubusercontent.com/u/13481295?v=4&s=70) | [BoogeeDoo](https://github.com/boogeedoo) | BoogeeDoo member |
 | ![Icon](https://avatars1.githubusercontent.com/u/18023624?v=4&s=70) | [akyuujs](https://github.com/akyuujs) | Akyuujs owner |
 | ![Icon](https://avatars3.githubusercontent.com/u/15833670?s=70&v=4) | [eggjs](https://github.com/eggjs) | Egg.js member |
