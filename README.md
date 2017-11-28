@@ -40,6 +40,7 @@ Welcome to summoner's rift!
 | [chinese-random-name](https://github.com/XadillaX/chinese-random-name) | Generate Chinese name using Node.js. |
 | [crc64_ecma182.js](https://github.com/souche-koumakan/crc64_ecma182.js) | Pure JavaScript implement of CRC64-ECMA182 for Node.js. |
 | [day-from-1970](https://github.com/XadillaX/day-from-1970) | Calculate out which day, month, year and week from 1970.1.1 via one timestamp. |
+| [efsw](https://github.com/XadillaX/node-efsw) | Watching your filesystem events just like fsevents. But node-efsw is cross-platform. |
 | [fbbk-json](https://github.com/XadillaX/fbibik-json) | Parse JSON-Object string (not normalized JSON string) into JSON object. |
 | [ihuyi106js](https://github.com/XadillaX/ihuyi106js) | iHuyi 106 SMS sender for Node.js. |
 | [illyria2](https://github.com/XadillaX/illyria2) | The next generation Illyria RPC SDK for Node.js. |
