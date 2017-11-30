@@ -17,6 +17,7 @@ Welcome to summoner's rift!
 | Blog | https://xcoder.in/ |
 | GitHub | [@XadillaX](https://github.com/XadillaX) |
 | NPM | [xadillax](https://www.npmjs.com/~xadillax) |
+| Zhihu | [@死月絲卡蕾特](https://www.zhihu.com/people/xadillax) |
 
 ## Main Open-Source Projects
 
