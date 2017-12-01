@@ -48,6 +48,7 @@ Welcome to summoner's rift!
 | [illyria2](https://github.com/XadillaX/illyria2) | The next generation Illyria RPC SDK for Node.js. |
 | [md5-filex](https://github.com/BoogeeDoo/md5-filex) | Calculate file checksum using MD5 in node.js native (start with reading a file). |
 | [mp4duration](https://github.com/XadillaX/node-mp4duration) | A Node.js package to parse mp4 file's duration. |
+| [node-constellation](https://github.com/XadillaX/node-constellation) | Calculate out which constellation one certain day is. |
 | [otrans](https://github.com/XadillaX/otrans) | Object key transformation for Node.js. |
 | [qqwry](https://github.com/souche-koumakan/qqwry) | qqwry.dat parser and querier for Node.js. |
 | [spidex](https://github.com/XadillaX/spidex) | A web requester for Node.js. |
