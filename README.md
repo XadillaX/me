@@ -12,7 +12,7 @@ Welcome to summoner's rift!
 | K | V |
 |---|---|
 | Languages | Node.js, C/C++ |
-| Platforms | OSX / Linux / Windows |
+| Platforms | macOS / Linux / Windows |
 | Email | YnJva2VuQGxldG1lLnJlcGFpcg== |
 | Blog | https://xcoder.in/ |
 | GitHub | [@XadillaX](https://github.com/XadillaX) |
