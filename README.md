@@ -19,6 +19,12 @@ Welcome to summoner's rift!
 | NPM | [xadillax](https://www.npmjs.com/~xadillax) |
 | Zhihu | [@死月絲卡蕾特](https://www.zhihu.com/people/xadillax) |
 
+## Written Book(s)
+
+| K | V |
+|---|---|
+| 《[Node.js：来一打 C++ 扩展](https://book.douban.com/subject/30247892/)》 | aka. "Node.js: Let's write a dozen of C++ Add-ons". <br /><small>[Source Code](https://github.com/XadillaX/nyaa-nodejs-demo)</small> |
+
 ## Main Open-Source Projects
 
 | K | V |
@@ -61,13 +67,14 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 
 | | Organization | Description |
 |-|--------------|-------------|
-| ![Icon](https://avatars3.githubusercontent.com/u/9950313?v=4&s=70) | [nodejs](https://github.com/nodejs) | Collaborator |
+| ![Icon](https://avatars3.githubusercontent.com/u/9950313?v=4&s=70)  | [nodejs](https://github.com/nodejs) | Collaborator |
 | ![Icon](https://avatars0.githubusercontent.com/u/20986060?s=70&v=4) | [Hangzhou Node Party](https://github.com/Hangzhou-Node-Party) | NodeParty Open-Source Foundation committee |
 | ![Icon](https://avatars2.githubusercontent.com/u/13481295?v=4&s=70) | [BoogeeDoo](https://github.com/boogeedoo) | BoogeeDoo member |
 | ![Icon](https://avatars1.githubusercontent.com/u/18023624?v=4&s=70) | [akyuujs](https://github.com/akyuujs) | Akyuujs owner |
 | ![Icon](https://avatars3.githubusercontent.com/u/15833670?s=70&v=4) | [eggjs](https://github.com/eggjs) | Egg.js member |
 | ![Icon](https://avatars3.githubusercontent.com/u/25809234?v=4&s=70) | [souche-koumakan](https://github.com/souche-koumakan) | Souche Koumakan owner |
 | ![Icon](https://avatars1.githubusercontent.com/u/11186302?v=4&s=70) | [ali-sdk](https://github.com/ali-sdk) | Ali-SDK member |
+| ![Icon](https://avatars1.githubusercontent.com/u/7125868?s=70&v=4)  | [node_modules](https://github.com/node-modules) | `node_modules` member |
 
 ## Contributions
 
@@ -81,9 +88,9 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
 ### Node.js Ecosystem
 
 + **Data Structure**
-    - [alibaba/node-hbase-client](https://github.com/alibaba/node-hbase-client/commits/master?author=XadillaX) Asynchronous HBase client for Node.js, pure JavaScript implementation.
     - [justinethier/node-kdtree](https://github.com/justinethier/node-kdtree/commits/master?author=XadillaX) A Node.js add-on for performing efficient Nearest Neighbor searches using libkdtree.
 + **Database**
+    - [alibaba/node-hbase-client](https://github.com/alibaba/node-hbase-client/commits/master?author=XadillaX) Asynchronous HBase client for Node.js, pure JavaScript implementation.
     - [eggjs/egg-sequelize](https://github.com/eggjs/egg-sequelize/commits/master?author=XadillaX) Sequelize for Egg.js.
     - [mysqljs/sqlstring](https://github.com/mysqljs/sqlstring/commits/master?author=XadillaX) Simple SQL escape and format for MySQL.
     - [sequelize/sequelize](https://github.com/sequelize/sequelize/commits/master?author=XadillaX) An easy-to-use multi SQL dialect ORM for Node.js.
@@ -102,6 +109,8 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
     - [justmoon/node-bignum](https://github.com/justmoon/node-bignum/commits/master?author=XadillaX) Big integers for Node.js using OpenSSL.
     - [lorenwest/node-config](https://github.com/lorenwest/node-config/commits/master?author=XadillaX) Node.js Application Configuration.
     - [node-modules/cfork](https://github.com/node-modules/cfork/commits/master?author=XadillaX) Cluster fork and restart easy way.
+    - [node-modules/shameimaru](https://github.com/node-modules/shameimaru/commits/master?author=XadillaX) Shameimaru Aya likes to traverse node_modules and capture the tree.
+    - [node-modules/time-profile](https://github.com/node-modules/time-profile/commits/master?author=XadillaX) Measuring execution time of functions.
 + **Web Framework**
     - [akyuujs/akyuu](https://github.com/akyuujs/akyuu/commits/develop?author=XadillaX) Yet another web framework based on express.js named Akyuu.
 
