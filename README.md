@@ -99,6 +99,7 @@ Visit [here](https://github.com/XadillaX?tab=repositories) to get the complete r
     - [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar/commits/master?author=XadillaX) A Javascript library for working with native objects.
     - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC/commits/master?author=XadillaX) A project for conversion between Traditional and Simplified Chinese.
     - [cnwhy/nzh](https://github.com/cnwhy/nzh/commits/master?author=XadillaX) 数字转中文（大写，小写）数字，金额。
+    - [justmoon/node-bignum](https://github.com/justmoon/node-bignum/commits/master?author=XadillaX) Big integers for Node.js using OpenSSL.
     - [lorenwest/node-config](https://github.com/lorenwest/node-config/commits/master?author=XadillaX) Node.js Application Configuration.
     - [node-modules/cfork](https://github.com/node-modules/cfork/commits/master?author=XadillaX) Cluster fork and restart easy way.
 + **Web Framework**
